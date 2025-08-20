@@ -11,7 +11,7 @@ report.generate({
             name: "chrome",
             version: "117",
         },
-        device: "Josep - PC",
+        device: "Carlos - PC",
         platform: {
             name: "Windows",
             version: "10",
